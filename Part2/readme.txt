@@ -18,5 +18,5 @@ e.g. (AND jeff goldblum INTEXT)
 4) The neccessary input files are provided in the 'biscuitwala_ankitkumar' directory for your convenience. 
  
 5) The test queries given in project description are in 
-'biscuitwala_ankitkumar' directory in op.txt with results generated on 
+'Part2' directory in op.txt with results generated on 
 bingsuns.  
