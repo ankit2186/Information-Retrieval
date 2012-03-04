@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: derrick
+Build-Jdk: 1.5.0_06
+Main-Class: org.htmlparser.Parser
+Class-Path: htmllexer.jar sax-2.0.1.jar
+
+Name: org/htmlparser/Parser.class
+Java-Bean: True
+
+Name: org/htmlparser/beans/StringBean.class
+Java-Bean: True
+
+Name: org/htmlparser/beans/HTMLTextBean.class
+Java-Bean: True
+
+Name: org/htmlparser/beans/LinkBean.class
+Java-Bean: True
+
+Name: org/htmlparser/beans/HTMLLinkBean.class
+Java-Bean: True
+

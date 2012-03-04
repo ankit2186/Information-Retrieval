@@ -1,0 +1,96 @@
+Query 1: (thriller INTEXT)
+2  hitcher the
+9  lethal weapon
+10  lethal weapon
+11  bedroom window the
+18  raising arizona
+101  innerspace
+126  angelic conversation the
+
+
+Query 2: (AND Jeff Goldblum INTEXT)
+NO RESULT
+Query 3: (AND jeff goldblum INTEXT)
+3  beyond therapy
+
+
+Query 4: (AND beyond therapy INTITLE) and (AND love story INTEXT)
+3  beyond therapy
+
+
+Query 5: (angel IN TITLE) and (PHRASE screen writer Alan Parker INTEXT)
+4  angel heart
+20  raising arizona
+22  hollywood shuffle
+26  burglar
+28  lily tomlin
+31  stunt man the
+38  creepshow 2
+43  abel
+47  verge??t mozart
+49  right hand man the
+50  amazing grace and chuck
+57  personal foul
+58  high season
+60  star wars
+62  ishtar
+69  witches of eastwick the
+70  untouchables the
+71  predator
+73  tampopo
+74  witches of eastwick the
+80  weapons of the spirit
+83  personal services
+85  predator
+99  adventures in babysitting
+114  fly the
+115  superman iv the quest for peace
+119  living daylights the
+120  living daylights the
+122  adventures in babysitting
+129  who's that girl?
+130  nadine
+
+
+Query 6: (OR mystery thriller action INTEXT)
+2  hitcher the
+4  angel heart
+5  angel heart
+6  radio days
+9  lethal weapon
+10  lethal weapon
+11  bedroom window the
+17  evil dead ii
+18  raising arizona
+26  burglar
+28  lily tomlin
+36  raising arizona
+38  creepshow 2
+47  verge??t mozart
+57  personal foul
+60  star wars
+63  untouchables the
+70  untouchables the
+71  predator
+75  witches of eastwick the
+78  full metal jacket
+79  project x
+80  weapons of the spirit
+81  ping pong
+85  predator
+88  trancers
+92  ceddo
+96  mona lisa
+102  dragnet
+103  my beautiful laundrette
+105  innerspace
+106  robocop
+107  robocop
+108  robocop
+113  robocop
+118  living daylights the
+121  stakeout
+124  living daylights the
+130  nadine
+
+
